@@ -1,6 +1,6 @@
-name=str('ssk')
-phno=7403
-mail=str('ssk@mail')
+name=str('karuppu29032005@gmail.com')
+phno=8940
+mail=str('karuppu29032005@gmail.com')
 a=input("enter the name:")
 if a== name :
  print(" ok valid name" )
